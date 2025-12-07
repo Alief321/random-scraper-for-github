@@ -3,6 +3,7 @@ import feedparser
 from typing import Optional, Dict, Any
 from src.base import BaseScraper
 from src.utils.stupid_detector import is_stupid_question
+import random
 
 
 class StackOverflowScraper(BaseScraper):
@@ -34,10 +35,10 @@ class StackOverflowScraper(BaseScraper):
             
             # Fallback: if no candidates, use first entry
             if not candidates:
-                print("No stupid questions found, using fallback")
+                print("No stupid questions found, using random fallback")
                 self.found_stupid = False
-                first = feed.entries[0]
-                return {"title": first.title, "link": first.link, "display_name": self.get_display_name()}
+                entry = random.choice(feed.entries)
+                return {"title": entry.title, "link": entry.link, "display_name": self.get_display_name()}
             
             self.found_stupid = True
             # Return first found (deterministic)
