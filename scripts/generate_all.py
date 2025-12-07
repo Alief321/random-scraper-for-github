@@ -20,7 +20,7 @@ SCRAPERS = {
     "stackoverflow": {
         "scraper": StackOverflowScraper,
         "generator": StackOverflowSVGGenerator,
-        "output_file": "stupid.svg"
+        "output_file": "stackoverflow.svg"
     },
     "github": {
         "scraper": GitHubRepoScraper,

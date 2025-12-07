@@ -41,7 +41,7 @@ random-scraper-for-github-readme/
 │   └── README.md                        # Docs of pattern
 │
 ├── assets/                                # Generated output
-│   ├── stupid.svg                        # StackOverflow badge
+│   ├── stackoverflow.svg                 # StackOverflow badge
 │   └── github_repo.svg                   # GitHub badge
 │
 ├── requirements.txt                       # Python dependencies

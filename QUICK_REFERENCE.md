@@ -98,7 +98,7 @@ detector.add_custom_patterns([
 
 ## 📊 SVG Output Files
 
-- `assets/stupid.svg` - StackOverflow badge
+- `assets/stackoverflow.svg` - StackOverflow badge
 - `assets/github_repo.svg` - GitHub badge
 - `assets/your_service.svg` - Custom scraper (example)
 

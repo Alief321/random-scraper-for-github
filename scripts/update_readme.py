@@ -49,7 +49,7 @@ def generate_readme():
     current_date = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     
     # Check which scrapers have generated content
-    so_svg_info = get_svg_info("assets/stupid.svg")
+    so_svg_info = get_svg_info("assets/stackoverflow.svg")
     gh_svg_info = get_svg_info("assets/github_repo.svg")
     
     readme = f'''# 🎲 Random Scrapers for GitHub README
@@ -58,8 +58,8 @@ A modular Python project generating daily random content SVG badges for your Git
 
 ## 📊 Current Badges
 
-### Stupid StackOverflow Question
-![Stupid StackOverflow Question](./assets/stupid.svg)
+###  StackOverflow Question of the Day
+![StackOverflow Question of the Day](./assets/stackoverflow.svg)
 
 ### Random GitHub Repository
 ![Random GitHub Repository](./assets/github_repo.svg)
@@ -84,7 +84,7 @@ python scripts/update_readme.py
 
 **StackOverflow Badge:**
 ```markdown
-![Stupid Question](https://raw.githubusercontent.com/Alief321/random-scraper-for-github-readme/refs/heads/main/assets/stupid.svg)
+![StackOverflow Question](https://raw.githubusercontent.com/Alief321/random-scraper-for-github-readme/refs/heads/main/assets/stackoverflow.svg)
 ```
 
 **GitHub Repo Badge:**

@@ -4,13 +4,13 @@ A modular Python project generating daily random content SVG badges for your Git
 
 ## 📊 Current Badges
 
-### Stupid StackOverflow Question
-![Stupid StackOverflow Question](./assets/stupid.svg)
+###  StackOverflow Question of the Day
+![StackOverflow Question of the Day](./assets/stackoverflow.svg)
 
 ### Random GitHub Repository
 ![Random GitHub Repository](./assets/github_repo.svg)
 
-**Last Updated:** 2025-12-07 09:19 UTC
+**Last Updated:** 2025-12-07 09:42 UTC
 
 ## 🚀 Quick Start
 
@@ -30,7 +30,7 @@ python scripts/update_readme.py
 
 **StackOverflow Badge:**
 ```markdown
-![Stupid Question](https://raw.githubusercontent.com/Alief321/random-scraper-for-github-readme/refs/heads/main/assets/stupid.svg)
+![StackOverflow Question](https://raw.githubusercontent.com/Alief321/random-scraper-for-github-readme/refs/heads/main/assets/stackoverflow.svg)
 ```
 
 **GitHub Repo Badge:**
