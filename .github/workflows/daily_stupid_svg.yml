@@ -1,0 +1,51 @@
+name: Daily Random Content Generator
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # setiap hari jam 00:00 UTC
+  workflow_dispatch: # bisa jalan manual dari Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate StackOverflow SVG
+        run: python scripts/generate_all.py stackoverflow
+
+      - name: Generate GitHub Repository SVG
+        run: python scripts/generate_all.py github
+
+      - name: Update README
+        run: python scripts/update_readme.py
+
+      - name: Commit generated files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/ README.MD
+          # commit only if changed
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update random content badges (generated)"
+            git push
+          fi

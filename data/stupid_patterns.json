@@ -1,0 +1,74 @@
+{
+  "categories": {
+    "security_hacking": {
+      "description": "Security and hacking related terms",
+      "patterns": ["hack", "hacking", "hacker", "crack", "cracking", "virus", "malware", "trojan", "keylogger", "how to hack", "how to crack", "password crack", "break into", "bypass security"]
+    },
+    "personal_relationship": {
+      "description": "Personal and relationship related",
+      "patterns": ["girlfriend", "boyfriend", "my wife", "my husband", "my ex", "dating app", "tinder", "relationship"]
+    },
+    "urgency_desperation": {
+      "description": "Urgency and desperation indicators",
+      "patterns": ["urgent", "asap", "emergency", "quickly", "plz", "pls", "please help", "help me please", "anyone please", "somebody help"]
+    },
+    "vim_related": {
+      "description": "Classic Vim confusion",
+      "patterns": ["exit vim", "quit vim", "close vim", "stuck in vim", "vim exit", "get out of vim", "leave vim"]
+    },
+    "school_homework": {
+      "description": "School and homework related",
+      "patterns": ["school project", "homework", "assignment", "my teacher", "my professor", "class project", "college project", "university project", "due tomorrow", "due today"]
+    },
+    "basic_mistakes": {
+      "description": "Basic beginner mistakes",
+      "patterns": ["how to run", "how to start", "how to install", "how to exit", "how to open", "how to close", "doesn't work", "not working", "won't work", "my code not working", "code doesn't work", "not work"]
+    },
+    "confusion_indicators": {
+      "description": "Confusion and lack of understanding",
+      "patterns": ["why my", "why does my", "why doesn't my", "what is wrong", "what's wrong", "what am i doing wrong", "i don't know", "i have no idea", "no clue", "confused", "i'm confused"]
+    },
+    "lack_of_effort": {
+      "description": "Lack of effort indicators",
+      "patterns": ["without code", "no code", "give me code", "write code for me", "do my", "can someone do", "need code", "send code"]
+    },
+    "stuck_help": {
+      "description": "Stuck and asking for help",
+      "patterns": ["stuck", "i'm stuck", "im stuck", "help stuck", "been stuck"]
+    },
+    "copy_paste": {
+      "description": "Copy paste related issues",
+      "patterns": ["copy paste", "copied code", "copy pasted", "found this code", "someone else's code"]
+    },
+    "weird_unusual": {
+      "description": "Weird or unusual situations",
+      "patterns": ["delete production", "deleted database", "rm -rf", "dropped table", "production down", "fired", "gonna get fired"]
+    },
+    "typos_quality": {
+      "description": "Typos and low quality indicators",
+      "patterns": [" plz ", " pls ", " halp ", " hlp ", " y ", " u ", " ur ", " bcz ", " cuz "]
+    },
+    "interview_test_cheating": {
+      "description": "Interview and test related",
+      "patterns": ["interview question", "test question", "exam question", "coding test", "take home test", "online test"]
+    },
+    "ai_chatgpt": {
+      "description": "AI and ChatGPT related",
+      "patterns": ["chatgpt said", "chatgpt told me", "ai generated", "copilot generated", "chatgpt code", "ai code"]
+    },
+    "database_disasters": {
+      "description": "Database related disasters",
+      "patterns": ["deleted all", "lost all data", "corrupted database", "wrong database", "production database"]
+    },
+    "beginner_confusion": {
+      "description": "Extreme beginner confusion",
+      "patterns": ["what is python", "what is java", "what is code", "how to computer", "learn programming", "never coded before"]
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-12-07",
+    "total_categories": 16,
+    "description": "Patterns for detecting potentially stupid or funny StackOverflow questions"
+  }
+}
