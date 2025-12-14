@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0f172a" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">Vega Lite Facet: Waffel inside calendar</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">chart not working correctly</text><a href="https://stackoverflow.com/questions/79845330/vega-lite-facet-waffel-inside-calendar-chart-not-working-correctly"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/79845330/vega-lite-facet-waffel-inside-ca...</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">fopen and stream_select not working</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">after PHP 8 upgrade</text><a href="https://stackoverflow.com/questions/79844205/fopen-and-stream-select-not-working-after-php-8-upgrade"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/79844205/fopen-and-stream-select-not-work...</text></a>
   </g>
   <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
 </svg>
