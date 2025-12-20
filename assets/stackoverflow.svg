@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0f172a" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">TouchBehavior doesn&#x27;t work</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">correctly on custom control</text><a href="https://stackoverflow.com/questions/79850648/touchbehavior-doesnt-work-correctly-on-custom-control"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/79850648/touchbehavior-doesnt-work-correc...</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">x-modelable not working inside React</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">component [closed]</text><a href="https://stackoverflow.com/questions/79849771/x-modelable-not-working-inside-react-component"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/79849771/x-modelable-not-working-inside-r...</text></a>
   </g>
   <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
 </svg>
