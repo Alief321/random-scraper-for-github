@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0f172a" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">EqualsIgnoreCase() not working as</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">intended.</text><a href="https://stackoverflow.com/questions/44238749/equalsignorecase-not-working-as-intended"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/44238749/equalsignorecase-not-working-as-...</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">AppIntent and AppShortcutsProvider does</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">not work with Siri</text><a href="https://stackoverflow.com/questions/76715005/appintent-and-appshortcutsprovider-does-not-work-with-siri"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/76715005/appintent-and-appshortcutsprovid...</text></a>
   </g>
   <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
 </svg>

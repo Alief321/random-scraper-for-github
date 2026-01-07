@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0d1117" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#58a6ff">⭐ Random Interesting GitHub Repository</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">rectorphp/rector-src • Development</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">repository for Rector • (PHP)</text><a href="https://github.com/rectorphp/rector-src"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#79c0ff">https://github.com/rectorphp/rector-src</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#58a6ff">⭐ Random Interesting GitHub Repository</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">traefik/traefik • The Cloud Native</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">Application Proxy • (Go)</text><a href="https://github.com/traefik/traefik"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#79c0ff">https://github.com/traefik/traefik</text></a>
   </g>
   <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
 </svg>
