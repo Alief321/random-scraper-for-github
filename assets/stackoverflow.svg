@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0f172a" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">Win32 kiosk app not working with virtual</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">keyboard</text><a href="https://stackoverflow.com/questions/79871596/win32-kiosk-app-not-working-with-virtual-keyboard"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/79871596/win32-kiosk-app-not-working-with...</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">How to install software from Google</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">Chromium/Android repos?</text><a href="https://stackoverflow.com/questions/79872413/how-to-install-software-from-google-chromium-android-repos"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/79872413/how-to-install-software-from-goo...</text></a>
   </g>
   <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
 </svg>
