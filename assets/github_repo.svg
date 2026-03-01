@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0d1117" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#58a6ff">⭐ Random Interesting GitHub Repository</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">karan/Projects • :page_with_curl: A list</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">of practical projects that</text><a href="https://github.com/karan/Projects"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#79c0ff">https://github.com/karan/Projects</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#58a6ff">⭐ Random Interesting GitHub Repository</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">ggml-org/llama.cpp • LLM inference in</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#c9d1d9">C/C++ • (C++)</text><a href="https://github.com/ggml-org/llama.cpp"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#79c0ff">https://github.com/ggml-org/llama.cpp</text></a>
   </g>
   <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
 </svg>
