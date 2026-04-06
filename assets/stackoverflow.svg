@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120" role="img" aria-label="🤡 Stupid StackOverflow Question of the Day">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="180" viewBox="0 0 680 180" role="img" aria-label="💻 StackOverflow Question of the Day">
   <defs>
     <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
       <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.45"/>
@@ -6,7 +6,7 @@
   </defs>
   <rect width="100%" height="100%" rx="12" fill="#0f172a" filter="url(#shadow)"/>
   <g>
-    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">🤡 Stupid StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">How to run a program from windows</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">service with administrator privileges</text><a href="https://stackoverflow.com/questions/27263901/how-to-run-a-program-from-windows-service-with-administrator-privileges"><text x="20" y="112" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/27263901/how-to-run-a-program-from-window...</text></a>
+    <text x="20" y="40" font-size="18" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" fill="#ffb86b">💻 StackOverflow Question of the Day</text><text x="20" y="66" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">How to convert a MySQL query</text><text x="20" y="86" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">result&#x27;s datetime string from</text><text x="20" y="106" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">&quot;Y/m/d H:i:s&quot; format to</text><text x="20" y="126" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">&quot;d/m/Y H:i:s&quot; with PHP</text><text x="20" y="146" font-size="16" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#e6eef8">[duplicate]</text><a href="https://stackoverflow.com/questions/6459617/how-to-convert-a-mysql-query-results-datetime-string-from-y-m-d-his-format"><text x="20" y="172" font-size="13" font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#9be7ff">https://stackoverflow.com/questions/6459617/how-to-convert-a-mysql-query-resu...</text></a>
   </g>
-  <rect x="0" y="92" width="680" height="28" fill-opacity="0"/>
+  <rect x="0" y="152" width="680" height="28" fill-opacity="0"/>
 </svg>
