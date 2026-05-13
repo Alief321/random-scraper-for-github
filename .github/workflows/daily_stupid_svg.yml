@@ -2,7 +2,7 @@ name: Daily Random Content Generator
 
 on:
   schedule:
-    - cron: '0 0 * * *' # setiap hari jam 00:00 UTC
+    #- cron: '0 0 * * *' # setiap hari jam 00:00 UTC
   workflow_dispatch: # bisa jalan manual dari Actions tab
 
 permissions:
